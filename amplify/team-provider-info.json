@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-facedemo-dev-222814-authRole",
+      "UnauthRoleArn": "arn:aws:iam::655193199820:role/amplify-facedemo-dev-222814-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::655193199820:role/amplify-facedemo-dev-222814-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-facedemo-dev-222814-deployment",
+      "UnauthRoleName": "amplify-facedemo-dev-222814-unauthRole",
+      "StackName": "amplify-facedemo-dev-222814",
+      "StackId": "arn:aws:cloudformation:us-east-1:655193199820:stack/amplify-facedemo-dev-222814/14fc8060-b3ef-11eb-9a2d-12736afde7db",
+      "AmplifyAppId": "dqxuagi58iyil"
+    }
+  }
+}
